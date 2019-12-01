@@ -1,0 +1,55 @@
+#chat-container{
+	width: 100%;
+	height: 95%;
+	border: 3px red;
+}
+
+#lista-container{
+	float: left;
+	background: white;
+	border: solid blue;
+	width: 30%;
+	text-align: center;
+}
+
+#mensaje-contacto{
+	width: 69%;
+	float: right;
+	position: top;
+	border: solid blue;
+	text-align: center;
+
+}
+
+#lista-contactos{
+	float: left;
+	background: white;
+	width: 30%;
+	border: solid aqua;
+}
+
+.contacto{
+	border: solid aqua;
+	padding: 1px;
+	margin: 2px;
+}
+
+#zona-mensaje{
+	border: solid grey;
+	float: right;
+	width: 69%;
+	height: 250px;
+}
+
+#input{
+	border: solid green;
+	float: right;
+	width: 69%;
+	height: 86px;
+}
+
+.mensaje{
+	text-align: center;
+	text-align: left;
+	color: grey;
+}
